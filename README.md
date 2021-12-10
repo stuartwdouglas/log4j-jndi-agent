@@ -1,0 +1,1 @@
+java -javaagent:/path/to/log4jjndiagent.jar
